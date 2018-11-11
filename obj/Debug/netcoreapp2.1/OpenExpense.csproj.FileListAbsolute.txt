@@ -1,0 +1,14 @@
+/Users/andy/Projects/OpenExpense/bin/Debug/netcoreapp2.1/OpenExpense.deps.json
+/Users/andy/Projects/OpenExpense/bin/Debug/netcoreapp2.1/OpenExpense.runtimeconfig.json
+/Users/andy/Projects/OpenExpense/bin/Debug/netcoreapp2.1/OpenExpense.runtimeconfig.dev.json
+/Users/andy/Projects/OpenExpense/bin/Debug/netcoreapp2.1/OpenExpense.dll
+/Users/andy/Projects/OpenExpense/bin/Debug/netcoreapp2.1/OpenExpense.pdb
+/Users/andy/Projects/OpenExpense/obj/Debug/netcoreapp2.1/OpenExpense.csprojAssemblyReference.cache
+/Users/andy/Projects/OpenExpense/obj/Debug/netcoreapp2.1/OpenExpense.csproj.CoreCompileInputs.cache
+/Users/andy/Projects/OpenExpense/obj/Debug/netcoreapp2.1/OpenExpense.RazorAssemblyInfo.cache
+/Users/andy/Projects/OpenExpense/obj/Debug/netcoreapp2.1/OpenExpense.RazorAssemblyInfo.cs
+/Users/andy/Projects/OpenExpense/obj/Debug/netcoreapp2.1/OpenExpense.AssemblyInfoInputs.cache
+/Users/andy/Projects/OpenExpense/obj/Debug/netcoreapp2.1/OpenExpense.AssemblyInfo.cs
+/Users/andy/Projects/OpenExpense/obj/Debug/netcoreapp2.1/OpenExpense.RazorTargetAssemblyInfo.cache
+/Users/andy/Projects/OpenExpense/obj/Debug/netcoreapp2.1/OpenExpense.dll
+/Users/andy/Projects/OpenExpense/obj/Debug/netcoreapp2.1/OpenExpense.pdb
